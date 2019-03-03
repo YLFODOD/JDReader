@@ -1,2 +1,2 @@
 # JDReader
-Read worst comments by product_id, making for HP inc. solution team
+Read negative comments by product_id, making for HP inc. Solution team
